@@ -1,0 +1,8 @@
+{
+	"printWidth": 80,
+	"bracketSameLine": false, // Ensure brackets are not on the same line as the content
+	"htmlWhitespaceSensitivity": "ignore",
+	"proseWrap": "always",
+	"endOfLine": "lf",
+	"prettier.configPath": "settings.json"
+}
